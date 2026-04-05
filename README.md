@@ -1,6 +1,6 @@
 ## 兴趣标签
 
-![](https://img.shields.io/badge/Minecraft-yellow)
+![](https://img.shields.io/badge/Minecraft-orange)
 ![](https://img.shields.io/badge/光·遇-green)
 ![](https://img.shields.io/badge/Linux-red)
 
