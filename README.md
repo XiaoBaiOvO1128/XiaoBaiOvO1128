@@ -11,4 +11,4 @@
 
 ![](https://img.shields.io/badge/喜欢-摆烂-blue)
 ![](https://img.shields.io/badge/萌新-求带-brightgreen)
-![](https://img.shields.io/badge/emo-black)
+
