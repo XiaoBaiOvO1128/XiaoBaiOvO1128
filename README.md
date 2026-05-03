@@ -1,0 +1,1 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&pause=1000&color=803EF7&width=435&lines=Hello+Everyone;%E6%88%91%E6%98%AF%E7%AD%B1%E7%99%BDovo;%E6%88%91%E6%9C%80%E5%A4%A7%E7%9A%84%E8%83%BD%E8%80%90%E5%B0%B1%E6%98%AF;%E8%BA%BA%E7%9D%80%E4%B8%8D%E5%8A%A8)](https://git.io/typing-svg)
